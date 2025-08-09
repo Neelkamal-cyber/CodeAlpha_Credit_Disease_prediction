@@ -1,4 +1,4 @@
-# CodeAlpha_Credit_Disease_prediction
+# CodeAlpha_Disease_prediction
 Modular ML pipeline for disease prediction using SVM. Covers heart disease, breast cancer, and diabetes datasets with reusable functions for cleaning, encoding (binary, ordinal, one-hot), scaling, and model evaluation. Built for clarity, flexibility, and medical data analysis.
 🧠 Multi-Disease Prediction System Using SVM
 This project provides a modular and scalable machine learning pipeline to predict the likelihood of heart disease, diabetes, and cancer using Support Vector Machines (SVM). It includes preprocessing, training, evaluation, and single-patient prediction capabilities.
